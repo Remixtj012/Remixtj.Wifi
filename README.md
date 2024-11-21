@@ -1,4 +1,4 @@
-# WIPWN
+# Remixtj.Wifi
 
 ![Logo](images/image.png)
 
